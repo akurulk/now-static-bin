@@ -16,7 +16,7 @@
       "src": "examples/rust/server.exe",
       "use": "now-static-bin",
       "config": {
-        "port": 7879,
+        "port": 7878,
         "timeout": 100
       }
     }
